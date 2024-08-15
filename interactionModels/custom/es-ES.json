@@ -1,0 +1,85 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estás",
+            "di hola mundo",
+            "di hola",
+            "hola mundo"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "PlacesIntent",
+          "samples": [
+            "Cuales son los destinos turisticos de este pais",
+            "Dime lugares turisticos de Paises Bajos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FoodIntent",
+          "samples": [
+            "Platillos emblemáticos de Paises Bajos",
+            "Cuales son los platillos mas populares del pais"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ClotheIntent",
+          "samples": [
+            "Como es la vestimenta típica de Paises Bajos",
+            "Vestimenta tipica de los pueblos de Paises Bajos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PeopleIntent",
+          "samples": [
+            "Personajes sobresalientes de Paises Bajos",
+            "Personas importantes en Paises Bajos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "Musica en Paises Bajos",
+            "Musica representativa de Países Bajos"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CountryIntent",
+          "samples": [
+            "Dame informacion sobre Paises Bajos",
+            "Describe Paises Bajos"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "aplpaisesbajos cincocinco"
+    }
+  }
+}

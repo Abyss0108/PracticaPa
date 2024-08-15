@@ -1,0 +1,81 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "Hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "PlacesIntent",
+          "samples": [
+            "What are the tourist destinations in this country",
+            "Show me tourist places in the Netherlands"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "FoodIntent",
+          "samples": [
+            "Emblematic dishes from the Netherlands",
+            "What are the most popular dishes in the country"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ClotheIntent",
+          "samples": [
+            "What is the typical clothing of the Netherlands",
+            "Typical clothing of the people of the Netherlands"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "PeopleIntent",
+          "samples": [
+            "Important people in the Netherlands",
+            "Outstanding people from the Netherlands"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "MusicIntent",
+          "samples": [
+            "Music in the Netherlands",
+            "Representative music from the Netherlands"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CountryIntent",
+          "samples": [
+            "Describes Netherlands",
+            "Give me information about the Netherlands"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "aplpaisesbajos fivefive"
+    }
+  }
+}
